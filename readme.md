@@ -10,6 +10,12 @@ pip install torchaudio
 pip install pushbullet.py
 ```
 
+## Usage
+1. Put prompts of your choosing in `prompts.txt`.
+2. `python musicgen.py`
+3. ???
+4. Get your groove on.
+
 ## How the Script Works
 
 1. **Pushbullet Integration**:
