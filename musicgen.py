@@ -40,7 +40,7 @@ def create_current_prompt_file(prompt, path):
         file.write(prompt)
 
 def remove_current_prompt_file(path):
-    if os.path.exists(file):
+    if os.path.exists(path):
         os.remove(path)
 
 def get_next_prompt():
